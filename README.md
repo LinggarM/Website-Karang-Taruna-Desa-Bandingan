@@ -3,6 +3,9 @@
 ## About the Project
 **Website Karang Taruna Desa Bandingan** merupakan project yang dibuat dalam rangka **Kuliah Kerja Nyata (KKN)** di Desa Bandingan, Kec. Bawang, Kab. Banjarnegara pada tahun 2020. **Website Karang Taruna Desa Bandingan** diperuntukan untuk memenuhi kebutuhan akan informasi Desa Bandingan kepada masyarakat Desa Bandingan terutama yang berhubungan dengan kegiatan para pemuda di Desa Bandingan (Karang Taruna). Sehingga akan mempermudah masyarakat Desa Bandingan dalam mengakses dan mendapatkan informasi yang tepat, tanpa perlu pergi ke keluarahan/ Balai desa. Selain itu website ini juga diperuntukkan sebagai branding dari Karang Taruna Desa Bandingan kepada masyarakat luar.
 
+## Mockup Preview
+![Mockup](screenshots/Tunas%20Bandingan.png)
+
 ## Screenshots
   Homepage | Example Posts
   :-------------------------:|:-------------------------:
