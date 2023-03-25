@@ -36,7 +36,7 @@ Website Karang Taruna Desa Bandingan: http://tunasbandingan.xyz/ (*inactive*)
 
 ## Usage
 * Manual Website Karang Taruna Desa Bandingan: https://www.youtube.com/playlist?list=PL6p_aLr-Ydx4uIeMmIYMg8m6Dn0v2qwUg
-* Admin Login Page: **your-website-url.com/wp-admin** (Change `your-website-url` with your own url, if you installed it on localhost, change it to `localhost`)
+* Admin Login Page: **your-website-url.com/wp-admin** (Change `your-website-url.com` with your own domain, if you installed it on localhost, change it to `localhost`)
 * Admin Account:
   * Username: **admin**
   * Password: **#DesaBandingan123**
