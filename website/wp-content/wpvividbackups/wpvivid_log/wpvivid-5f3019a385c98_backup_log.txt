@@ -1,0 +1,79 @@
+Log created: 2020-08-09 15:43:31
+Type: backup
+[2020-08-09 15:43:35][notice]Start backing up.
+[2020-08-09 15:43:35][notice]server info fcgi:Off max execution time: 900 wp version:5.4.2 php version:7.2.32 db version:5.5.5 php ini:safe_mode: memory_limit:256M memory_get_usage:45,22 MB memory_get_peak_usage:45,69 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2020-08-09 15:43:35][notice]Prepare to backup backup_db files.
+[2020-08-09 15:43:35][notice]Start exporting database.
+[2020-08-09 15:43:35][notice]max_allowed_packet less than 32M :1,00 MB
+[2020-08-09 15:43:35][notice]Preparing to dump table wp_commentmeta
+[2020-08-09 15:43:35][notice]Preparing to dump table wp_comments
+[2020-08-09 15:43:36][notice]Preparing to dump table wp_duplicator_packages
+[2020-08-09 15:43:36][notice]Preparing to dump table wp_links
+[2020-08-09 15:43:36][notice]Preparing to dump table wp_options
+[2020-08-09 15:43:36][notice]Preparing to dump table wp_pollsa
+[2020-08-09 15:43:37][notice]Preparing to dump table wp_pollsip
+[2020-08-09 15:43:37][notice]Preparing to dump table wp_pollsq
+[2020-08-09 15:43:37][notice]Preparing to dump table wp_postmeta
+[2020-08-09 15:43:37][notice]Preparing to dump table wp_posts
+[2020-08-09 15:43:37][notice]Preparing to dump table wp_termmeta
+[2020-08-09 15:43:38][notice]Preparing to dump table wp_terms
+[2020-08-09 15:43:38][notice]Preparing to dump table wp_term_relationships
+[2020-08-09 15:43:38][notice]Preparing to dump table wp_term_taxonomy
+[2020-08-09 15:43:38][notice]Preparing to dump table wp_usermeta
+[2020-08-09 15:43:38][notice]Preparing to dump table wp_users
+[2020-08-09 15:43:38][notice]Exporting database finished.
+[2020-08-09 15:43:38][notice]Start compressing backup_db
+[2020-08-09 15:43:38][notice]Prepare to zip files. file: localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_db.zip
+[2020-08-09 15:43:38][notice]Adding zip files completed.localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_db.zip, filesize: 869,96 KB
+[2020-08-09 15:43:38][notice]Compressing backup_db completed
+[2020-08-09 15:43:38][notice]Backing up backup_db completed.
+[2020-08-09 15:43:39][notice]Prepare to backup backup_themes files.
+[2020-08-09 15:43:39][notice]File number: 957
+[2020-08-09 15:43:39][notice]Start compressing backup_themes
+[2020-08-09 15:43:41][notice]Prepare to zip files. file: localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_themes.zip
+[2020-08-09 15:43:42][notice]Adding zip files completed.localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_themes.zip, filesize: 28,51 MB
+[2020-08-09 15:43:42][notice]Compressing backup_themes completed
+[2020-08-09 15:43:42][notice]Backing up backup_themes completed.
+[2020-08-09 15:43:44][notice]Prepare to backup backup_plugin files.
+[2020-08-09 15:43:44][notice]File number: 1780
+[2020-08-09 15:43:44][notice]Start compressing backup_plugin
+[2020-08-09 15:43:46][notice]Prepare to zip files. file: localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_plugin.zip
+[2020-08-09 15:43:48][notice]Adding zip files completed.localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_plugin.zip, filesize: 19,46 MB
+[2020-08-09 15:43:48][notice]Compressing backup_plugin completed
+[2020-08-09 15:43:48][notice]Backing up backup_plugin completed.
+[2020-08-09 15:43:49][notice]Prepare to backup backup_uploads files.
+[2020-08-09 15:43:49][notice]File number: 421
+[2020-08-09 15:43:49][notice]Start compressing backup_uploads
+[2020-08-09 15:43:49][notice]Prepare to zip files. file: localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_uploads.zip
+[2020-08-09 15:43:50][notice]Adding zip files completed.localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_uploads.zip, filesize: 36,67 MB
+[2020-08-09 15:43:50][notice]Compressing backup_uploads completed
+[2020-08-09 15:43:50][notice]Backing up backup_uploads completed.
+[2020-08-09 15:43:51][notice]Prepare to backup backup_content files.
+[2020-08-09 15:43:51][notice]File number: 46
+[2020-08-09 15:43:51][notice]Start compressing backup_content
+[2020-08-09 15:43:51][notice]Prepare to zip files. file: localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_content.zip
+[2020-08-09 15:43:51][notice]Adding zip files completed.localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_content.zip, filesize: 2,66 MB
+[2020-08-09 15:43:51][notice]Compressing backup_content completed
+[2020-08-09 15:43:51][notice]Backing up backup_content completed.
+[2020-08-09 15:43:53][notice]Prepare to backup backup_core files.
+[2020-08-09 15:43:53][notice]File number: 1668
+[2020-08-09 15:43:53][notice]Start compressing backup_core
+[2020-08-09 15:43:55][notice]Prepare to zip files. file: localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_core.zip
+[2020-08-09 15:43:57][notice]Adding zip files completed.localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_core.zip, filesize: 39,69 MB
+[2020-08-09 15:43:57][notice]Compressing backup_core completed
+[2020-08-09 15:43:57][notice]Backing up backup_core completed.
+[2020-08-09 15:43:58][notice]Prepare to backup backup_merge files.
+[2020-08-09 15:43:58][notice]File number: 6
+[2020-08-09 15:43:58][notice]Start compressing backup_merge
+[2020-08-09 15:43:58][notice]Prepare to zip files. file: localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_all.zip
+[2020-08-09 15:44:08][notice]Adding zip files completed.localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_all.zip, filesize: 66,41 MB
+[2020-08-09 15:44:08][notice]Cleaned up file, filename: C:\xampp\htdocs/wp-content\wpvividbackups\localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_core.zip
+[2020-08-09 15:44:08][notice]Cleaned up file, filename: C:\xampp\htdocs/wp-content\wpvividbackups\localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_uploads.zip
+[2020-08-09 15:44:08][notice]Cleaned up file, filename: C:\xampp\htdocs/wp-content\wpvividbackups\localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_themes.zip
+[2020-08-09 15:44:08][notice]Cleaned up file, filename: C:\xampp\htdocs/wp-content\wpvividbackups\localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_plugin.zip
+[2020-08-09 15:44:08][notice]Cleaned up file, filename: C:\xampp\htdocs/wp-content\wpvividbackups\localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_content.zip
+[2020-08-09 15:44:08][notice]Cleaned up file, filename: C:\xampp\htdocs/wp-content\wpvividbackups\localhost_wpvivid-5f3019a385c98_2020-08-09-15-43_backup_db.zip
+[2020-08-09 15:44:08][notice]Compressing backup_merge completed
+[2020-08-09 15:44:08][notice]Backing up backup_merge completed.
+[2020-08-09 15:44:08][notice]Backup completed.
+[2020-08-09 15:44:08][notice]Backup succeeded.

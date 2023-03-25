@@ -1,0 +1,155 @@
+# Translation of Themes - Fashion Icon in Indonesian
+# This file is distributed under the same license as the Themes - Fashion Icon package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-11 00:03:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Fashion Icon\n"
+
+#. Description of the theme
+msgid "Fashion Icon is a child theme of Blossom Fashion for fashion enthusiasts. The theme is built for creating an attractive blogging website for personal or professional use. The theme focuses on making your blog outstanding among users and search engines with responsive design, speed optimized code, and SEO friendly markup. The theme can be used to create fashion, lifestyle, beauty, makeup, gossip, food, or a journal blog without writing a single line of code. If you are looking for an impressive and UX optimized design for making money online, Fashion Icon Free WordPress theme might be the right choice. The theme features advanced, easy-to-use feature that allows you to create a blog as a DIY project-- without hiring a developer. The theme is Schema.org ready and rocks features of a premium theme. The theme is social media ready. You can flaunt your Instagram profile on the home page. The theme also has built-in options to integrate Facebook, Snapchat, Twitter, Instagram, Pinterest, and other major social platforms. Fashion Icon comes with 20 custom widgets that help you increase the functionality of website all by yourself. The theme is also highly customizable. You can quickly change color, fonts, and layouts. Fashion Icon is fully compatible with the WooCommerce plugin -- you can create your online shop with the theme. On top of that, you can maximize the revenue from your blog with advertisement widget. The theme is translation ready and supports RTL scripts also. If you run into any problem or need guidance, Fashion Icon is backed with extensive documentation and friendly, human support. Check demo: https://demo.blossomthemes.com/fashion-icon/, read documentation: https://docs.blossomthemes.com/docs/fashion-icon/ and get support: https://blossomthemes.com/support-ticket/."
+msgstr "Fashion Icon adalah tema turunan dari Blossom Fashion untuk penggemar mode. Tema dibuat untuk membuat situs web blogging yang atraktif baik untuk personal maupun profesional. Desain tema difokuskan untuk menjadikan blog Anda unik bagi pengunjung dan mesin pencari; responsif, kode dioptimalkan untuk kecepatan, dan markup SEO friendly. Tema dapat digunakan untuk keperluan fashion, lifestyle, kecantikan, make-up, gosip, makanan, atau blog jurnal tanpa menuliskan sebaris kode. Jika Anda mencari desain yang impresif dan dioptimalkan aspek UX-nya untuk mencari uang melalui online, tema WordPress gratis Fashion Icon mungkin pilihan yang tepat. Dilengkapi dengan fitur yang canggih dan mudah digunakan, menjadikan Anda mudah membuat blog Anda sendiri -- tanpa menyewa seorang developer. Tema kompatibel dengan Schema.org dan fitur-fitur tema premium disertakan di dalamnya. Tema juga mempunyai opsi-opsi yang tertanam dapat digunakan untuk integrasi Facebook, Snapchat, Twitter, Instagram, Pinterest, dan platform media sosial lainnya. Fashion Icon hadir dengan 20 widget khusus yang membantu Anda meningkatkan fungsionalitas situs web sesuai keperluan Anda. Tema ini sangat mudah disesuaikan. Anda dapat dengan cepat mengubah warna, huruf, dan layout. Fashion Icon kompatibel sepenuhnya dengan plugin WooCommerce -- Anda dapat membuat shop online dengan tema ini. Selain itu, Anda dapat memaksimalkan penghasilan dari blog Anda dengan widget periklanan. Tema ini siap diterjemahkan dan juga mendukung script RTL. Jika Anda menemukan masalah atau perlu bantuan, Fashion Icon didukung oleh dokumentasi yang lengkap dan tim layanan bantuan yang ramah. Cek demo: https://demo.blossomthemes.com/fashion-icon/, baca dokumentasi: https://docs.blossomthemes.com/docs/fashion-icon/ dan dapatkan bantuan: https://blossomthemes.com/support-ticket/."
+
+#. Theme Name of the theme
+msgid "Fashion Icon"
+msgstr "Fashion Icon"
+
+#: functions.php:962
+msgid " Fashion Icon | Developed By "
+msgstr " Fashion Icon | Diciptakan Oleh"
+
+#: functions.php:964
+msgid "https://wordpress.org/"
+msgstr "https://id.wordpress.org/"
+
+#: functions.php:964
+msgid " Powered by %s"
+msgstr " Ditenagai oleh %s"
+
+#: functions.php:594
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:593
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:592
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:483
+msgid "Menu"
+msgstr "Menu"
+
+#: functions.php:338
+msgid "This is the home page layouts for your blog."
+msgstr "Layout halaman beranda blog Anda."
+
+#: functions.php:337
+msgid "Home Page Layouts"
+msgstr "Layout Halaman Beranda"
+
+#: functions.php:316
+msgid "Home Page Layout"
+msgstr "Layout Halaman Beranda"
+
+#: functions.php:303
+msgid "This is the header layouts for your blog."
+msgstr "Layout header untuk blog Anda."
+
+#: functions.php:302
+msgid "Header Layouts"
+msgstr "Layout Header"
+
+#: functions.php:281
+msgid "Header Layout"
+msgstr "Layout Header"
+
+#: functions.php:261
+msgid "Primary color of the theme."
+msgstr "Warna primer tema."
+
+#: functions.php:260
+msgid "Primary Color"
+msgstr "Warna Utama"
+
+#: functions.php:237
+msgid "Change the font size of your site."
+msgstr "Ubah ukuran font judul situs Anda."
+
+#: functions.php:236
+msgid "Font Size"
+msgstr "Ukuran Font"
+
+#: functions.php:214
+msgid "Secondary font of the site."
+msgstr "Font sekunder situs."
+
+#: functions.php:213
+msgid "Secondary Font"
+msgstr "Font Sekunder"
+
+#: functions.php:192
+msgid "Primary font of the site."
+msgstr "Font utama situs."
+
+#: functions.php:191
+msgid "Primary Font"
+msgstr "Font Utama"
+
+#: functions.php:171
+msgid "Typography"
+msgstr "Tipografi"
+
+#: functions.php:156
+msgid "Change the font size of your site title."
+msgstr "Ubah ukuran font judul situs Anda."
+
+#: functions.php:155
+msgid "Site Title Font Size"
+msgstr "Ukuran Font Judul Situs"
+
+#: functions.php:133
+msgid "Site title and tagline font."
+msgstr "Font judul situs dan slogan."
+
+#: functions.php:132
+msgid "Site Title Font"
+msgstr "Font Judul Situs"
+
+#: functions.php:103
+msgid "%1$sDocumentation Link:%2$s %3$sClick here.%4$s"
+msgstr "%1$sTautan Dokumentasi:%2$s %3$sKlik di sini.%4$s"
+
+#: functions.php:101
+msgid "%1$sDemo Link:%2$s %3$sClick here.%4$s"
+msgstr "%1$sTautan Demo:%2$s %3$sKlik di sini.%4$s"
+
+#: functions.php:86
+msgid "Demo & Documentation"
+msgstr "Demo & Dokumentasi"
+
+#. Author URI of the theme
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: functions.php:963
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+msgid "https://blossomthemes.com/downloads/fashion-icon-free-wordpress-theme"
+msgstr "https://blossomthemes.com/downloads/fashion-icon-free-wordpress-theme"
