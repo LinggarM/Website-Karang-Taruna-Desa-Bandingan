@@ -14,6 +14,9 @@
 ## Live Website Link
 Website Karang Taruna Desa Bandingan: http://tunasbandingan.xyz/ (*inactive*)
 
+## Website Manual Video
+Manual Website Karang Taruna Desa Bandingan: [https://www.youtube.com/playlist?list=PL6p_aLr-Ydx4uIeMmIYMg8m6Dn0v2qwUg](https://www.youtube.com/playlist?list=PL6p_aLr-Ydx4uIeMmIYMg8m6Dn0v2qwUg)
+
 ## Features
 * Add, Edit, and Delete Posts
 * Add, Edit, and Delete Pages
